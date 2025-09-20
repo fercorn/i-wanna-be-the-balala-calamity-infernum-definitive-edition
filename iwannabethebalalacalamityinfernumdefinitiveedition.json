@@ -1,0 +1,17 @@
+{
+  "id": "iwannabethebalalacalamityinfernumdefinitiveedition",
+  "name": "I Wanna Be The Balala Calamity Infernum Definitive Edition",
+  "author": [
+    "Fercorn"
+  ],
+  "description": "Random mod I made, using Joker Forge.\nMostly comprises of memes and references to media I like.",
+  "prefix": "iwannabebalala",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "FFDB58",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
