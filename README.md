@@ -2,6 +2,7 @@
 
 This is a really stupid Balatro mod I made using [Joker Forge](https://github.com/Jayd-H/joker-forge). Requires [Steamodded](https://github.com/Steamodded/smods)).
 NOTE: May be incompatible with certain other mods. Disable the mods that are causing crashes (and please report which mods do!) 
+Go to the Releases tab to download (I don't feel like updating the main page every time!)
 
 # FEATURES
 -50 new Jokers! Subject to change! Most likely more!\
